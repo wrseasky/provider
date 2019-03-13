@@ -11,6 +11,8 @@ public class T {
 
         System.out.println("new 1");
 
+        System.out.println("new 11");
+
     }
 
 }
