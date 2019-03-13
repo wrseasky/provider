@@ -13,6 +13,9 @@ public class T {
 
         System.out.println("new 11");
 
+
+        System.out.println("nnnfenzhi");
+
     }
 
 }
